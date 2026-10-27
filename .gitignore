@@ -1,0 +1,11 @@
+.env
+tournament.db
+__pycache__/
+venv/.env
+credentials.json
+*.db
+teams.xlsx
+venv/
+__pycache__/
+*.pyc
+.DS_Store
